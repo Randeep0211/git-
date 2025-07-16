@@ -3,3 +3,4 @@ first code
 second code
 This is another line for soft
 Merge conflicts
+stashing the code
