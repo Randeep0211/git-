@@ -1,3 +1,5 @@
 open code
 first code
 second code
+This is another line for soft
+Merge conflicts
