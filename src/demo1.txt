@@ -1,9 +1,5 @@
 open code
-<<<<<<< HEAD
-first code
-=======
 first code
 second code
 This is another line for soft
 Merge conflicts
->>>>>>> test4
