@@ -6,4 +6,6 @@ Merge conflicts
 stashing the code
 stash practice
 stash1 practice
-I want to add another new line
+Add another new line 
+new line
+demo line
