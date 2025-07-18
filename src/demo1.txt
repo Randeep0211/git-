@@ -4,8 +4,5 @@ second code
 This is another line for soft
 Merge conflicts
 stashing the code
-<<<<<<< Updated upstream
-=======
 stash practice
 stash1 practice
->>>>>>> Stashed changes
