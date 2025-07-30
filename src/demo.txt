@@ -6,3 +6,5 @@ fifth code
 sixth
 seventh
 reset code
+reset soft
+mixed reset 
