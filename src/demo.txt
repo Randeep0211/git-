@@ -8,3 +8,4 @@ seventh
 reset code
 reset soft
 mixed reset 
+mixed reset again
