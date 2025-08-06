@@ -1,3 +1,7 @@
 My initial 
 stashing 1
 stashing 3
+My initial code
+stashing
+stashing 2
+merging the code
