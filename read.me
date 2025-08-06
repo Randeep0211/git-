@@ -46,3 +46,21 @@ git diff --staged filename
 ## To cherry pick commits in a different/wrong branch to the choice branch.
 git cherry-pick commitID
 
+## stashing
+Stashing is used if we write a code in a particular branch & we need to switch branch without commiting.
+In that circumstances we do stash where we save the code temperary 
+We import the stashed code in any branch of our choice
+
+git stash
+git stash list
+git stash pop
+git stash apply
+git stash drop stash@{}
+apply + drop = pop
+
+## To change/amend the commit id or msg
+git commit --amend --no-edit : Only changed the ID
+git commit --amend -m "msg" : Changes both ID & msgs
+
+## To track the branch/repository
+git branch -r 

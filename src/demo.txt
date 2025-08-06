@@ -11,3 +11,5 @@ mixed reset
 mixed reset again
 difference in file
 cherry-pick testing
+stashing
+stashing again
